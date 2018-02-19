@@ -39,15 +39,15 @@
 ### PRACTICAL TASKS
 ---
 ![alt text][logo] Practical tasks requirments you find here: (https://github.com/prattions/Prijomi-programavimo-praktika/issues). <br/>
- ! [Issues hit](https://image.ibb.co/hKgOwS/issues.png) <br/>
+ ![Issues hit](https://image.ibb.co/hKgOwS/issues.png) <br/>
  `Fig. 0 Issues Here you will find practical tasks requirements.'
  ![alt text][logo] Create a new version of the Github account control: eg: Marius.Gzegozevskis, M.Gzegozevskis and pn.` <br/>
- ![alt text][logo] Clicking this link (https://classroom.github.com/a/VMxdf01Y) and accepting this assigment (see Figure 1): [Invitation window](https://image.ibb.co/ewCorH/invitation.png)
+ ![alt text][logo] Clicking this link (https://classroom.github.com/a/VMxdf01Y) and accepting this assigment (see Figure 1): ![Invitation window](https://image.ibb.co/ewCorH/invitation.png)
 `1 fig. Invitation link window (You must have Github account or create new). `
  
  You will automatically create a private repository (catalog) that you and the teacher will see your activity (see Figure 2):
  
- ! [Created repo](https://image.ibb.co/g9DLqc/sukurti_repo.png)
+ ![Created repo](https://image.ibb.co/g9DLqc/sukurti_repo.png)
 `2 fig. Created a new repository group_name + user_name. `
  <br/>
  
@@ -63,19 +63,19 @@
  
  When you see this window, you must confirm the access:
  
- ! [join the project](https://image.ibb.co/i4ueGH/prie_projekto.png) <br/>
+ ![join the project](https://image.ibb.co/i4ueGH/prie_projekto.png) <br/>
  
  The next steps are how to create a new team or switch to an existing team.
  
- ! [Create Team](https://image.ibb.co/eNfKGH/project.png)
+ ![Create Team](https://image.ibb.co/eNfKGH/project.png)
  
  The team captain who created the team will see this window where they can invite and discuss with members. <br/>
  
- ! [Account window](https://image.ibb.co/gfNYbH/team_kaip_atrodo.png)
+ ![Account window](https://image.ibb.co/gfNYbH/team_kaip_atrodo.png)
  
  Below is a team repository that will host the program code.
  
- ! [Account window](https://image.ibb.co/ccWtbH/pratybos_praktika.png)
+ ![Account window](https://image.ibb.co/ccWtbH/pratybos_praktika.png)
  
  ![alt text][logo] The team must be made up of 2 to 4 students.
 
