@@ -1,48 +1,48 @@
 ### IMPORTANT 
 ---
 
-! [alt text][logo] Main programming language C/C++. <br/>
-! [alt text][logo] Both Completed tasks (practiacal tasks and projet) should commited  to Github using Version Control System Git. <br/>
-! [alt text][logo] Below you will find the information and requirements for project and practical tasks.
+![alt text][logo] Main programming language C/C++. <br/>
+![alt text][logo] Both Completed tasks (practiacal tasks and projet) should commited  to Github using Version Control System Git. <br/>
+![alt text][logo] Below you will find the information and requirements for project and practical tasks.
 
 ---
 
 ### SOFTWARE IDE's
 ---
 
-! [alt text][logo] Online Compiler (https://www.tutorialspoint.com/compile_c_online.php). <br/>
-! [alt text][logo] Some IDE's: Dev-C / C ++, Codelite, CodeBlocks, CLion or other programming IDE. <br/>
-! [alt text][logo] Version Control System (VCS) ** Git **, here are a couple of links for beginners start using Git:
+![alt text][logo] Online Compiler (https://www.tutorialspoint.com/compile_c_online.php). <br/>
+![alt text][logo] Some IDE's: Dev-C / C ++, Codelite, CodeBlocks, CLion or other programming IDE. <br/>
+![alt text][logo] Version Control System (VCS) ** Git **, here are a couple of links for beginners start using Git:
 > - Github (https://www.youtube.com/watch?v=0fKg7e37bQE).
 > - Git (https://www.youtube.com/watch?v=SWYqp7iY_Tc).
 
-! [alt text][logo] Download Git: (https://git-scm.com/downloads).
+![alt text][logo] Download Git: (https://git-scm.com/downloads).
 
-! [alt text][logo] Download Github: (https://desktop.github.com).
+![alt text][logo] Download Github: (https://desktop.github.com).
 
-! [alt text][logo] You can use any other tool but the main VCS system enviroment for completed task only Github.
+![alt text][logo] You can use any other tool but the main VCS system enviroment for completed task only Github.
 
 ---
 
 ### FINAL EVALUATION
 ---
-! [alt text][logo] Final evaluation (100%) = Quiz (20%) + Practical tasks average (50%) + Project (30%). \
-! [alt text][logo] The cumulative score is offset if all parts are rated positively. \
+![alt text][logo] Final evaluation (100%) = Quiz (20%) + Practical tasks average (50%) + Project (30%). \
+![alt text][logo] The cumulative score is offset if all parts are rated positively. \
 
 ---
 ### QUIZ
 ---
-! [alt text][logo] Complete the quiz you need any device which have a web browser. \
-! [alt text][logo] Test link (https://forms.office.com/Pages/ResponsePage.aspx?id=UUqGQwxHFEOpOVe_McsROIvoJvCKyHVPvWo_cRWd6JtUNTVPRkpXUjhLTUxWRk1YS1E0TkwyNktaRi4u). You will only be able to complete the quiz by signing with mail.office365.com  account and use credentials for e.g., s000012@ad.viko.lt.
+![alt text][logo] Complete the quiz you need any device which have a web browser. \
+![alt text][logo] Test link (https://forms.office.com/Pages/ResponsePage.aspx?id=UUqGQwxHFEOpOVe_McsROIvoJvCKyHVPvWo_cRWd6JtUNTVPRkpXUjhLTUxWRk1YS1E0TkwyNktaRi4u). You will only be able to complete the quiz by signing with mail.office365.com  account and use credentials for e.g., s000012@ad.viko.lt.
 
 ---
 ### PRACTICAL TASKS
 ---
-! [alt text][logo] Practical tasks requirments you find here: (https://github.com/prattions/Prijomi-programavimo-praktika/issues). <br/>
+![alt text][logo] Practical tasks requirments you find here: (https://github.com/prattions/Prijomi-programavimo-praktika/issues). <br/>
  ! [Issues hit](https://image.ibb.co/hKgOwS/issues.png) <br/>
  `Fig. 0 Issues Here you will find practical tasks requirements.'
- ! [alt text][logo] Create a new version of the Github account control: eg: Marius.Gzegozevskis, M.Gzegozevskis and pn.` <br/>
- ! [alt text][logo] Clicking this link (https://classroom.github.com/a/VMxdf01Y) and accepting this assigment (see Figure 1): [Invitation window](https://image.ibb.co/ewCorH/invitation.png)
+ ![alt text][logo] Create a new version of the Github account control: eg: Marius.Gzegozevskis, M.Gzegozevskis and pn.` <br/>
+ ![alt text][logo] Clicking this link (https://classroom.github.com/a/VMxdf01Y) and accepting this assigment (see Figure 1): [Invitation window](https://image.ibb.co/ewCorH/invitation.png)
 `1 fig. Invitation link window (You must have Github account or create new). `
  
  You will automatically create a private repository (catalog) that you and the teacher will see your activity (see Figure 2):
@@ -51,15 +51,15 @@
 `2 fig. Created a new repository group_name + user_name. `
  <br/>
  
- ! [alt text][logo] All the tasks in Issues tab: # 1, # 2, # 3, # 4 must be placed in this created repository using the VCS Git !!Not enough to upload only from web browser.
+ ![alt text][logo] All the tasks in Issues tab: # 1, # 2, # 3, # 4 must be placed in this created repository using the VCS Git !!Not enough to upload only from web browser.
  
 ---
 ### PROJECT
 ---
-! [alt text][logo] A more detailed description of the project you find here: (https://github.com/prattions/Pirmoy-programming-practice/issues/5). <br/>
- ! [alt text][logo] Create your own team and come up with a name for it. <br/>
- ! [alt text][logo] Choose the team manager \
- ! [alt text][logo] Team Leader using this link: (https://classroom.github.com/g/5xKI20tj) must create a team and invite team members to it.
+![alt text][logo] A more detailed description of the project you find here: (https://github.com/prattions/Pirmoy-programming-practice/issues/5). <br/>
+ ![alt text][logo] Create your own team and come up with a name for it. <br/>
+ ![alt text][logo] Choose the team manager \
+ ![alt text][logo] Team Leader using this link: (https://classroom.github.com/g/5xKI20tj) must create a team and invite team members to it.
  
  When you see this window, you must confirm the access:
  
@@ -77,7 +77,7 @@
  
  ! [Account window](https://image.ibb.co/ccWtbH/pratybos_praktika.png)
  
- ! [alt text][logo] The team must be made up of 2 to 4 students.
+ ![alt text][logo] The team must be made up of 2 to 4 students.
 
  
  
@@ -85,13 +85,13 @@
 ### RESULTS
 ---
 
-! [alt text][logo] You can find the results here: (https://docs.google.com/spreadsheets/d/e/2PACX-1vTNi2q4gZA2wqWGSDFSN8FsdLK6-DrkADRIGVkNSTlQgpIXUDZCL-D_DdDNadCtw77WbTbxaZf3ZwrX/pubhtml?gid=1450898108&single=true).
+![alt text][logo] You can find the results here: (https://docs.google.com/spreadsheets/d/e/2PACX-1vTNi2q4gZA2wqWGSDFSN8FsdLK6-DrkADRIGVkNSTlQgpIXUDZCL-D_DdDNadCtw77WbTbxaZf3ZwrX/pubhtml?gid=1450898108&single=true).
 
 ---
 ### FEEDBACK
 ---
 
-! [alt text][logo] Provide your opinion on the disadvantages, advantages, benefits of this course use this link: (https://docs.google.com/forms/d/e/1FAIpQLSdPbeONXYZYX-kC_iFE4kcY6R8QEofm8_INNQOz9CER7xabpA/viewform?embedded=true) .
+![alt text][logo] Provide your opinion on the disadvantages, advantages, benefits of this course use this link: (https://docs.google.com/forms/d/e/1FAIpQLSdPbeONXYZYX-kC_iFE4kcY6R8QEofm8_INNQOz9CER7xabpA/viewform?embedded=true) .
 
 ---
 
