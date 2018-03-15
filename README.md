@@ -38,11 +38,11 @@
 ---
 ### PRACTICAL TASKS
 ---
-![alt text][logo] Practical tasks requirments you find here: (https://github.com/prattions/Prijomi-programavimo-praktika/issues). <br/>
+![alt text][logo] Practical tasks requirments you find here: (https://github.com/pratybos/First-programming-practice/issues). <br/>
  ![Issues hit](https://image.ibb.co/hKgOwS/issues.png) <br/>
  `Fig. 0 Issues Here you will find practical tasks requirements.'
  ![alt text][logo] Create a new version of the Github account control: eg: Marius.Gzegozevskis, M.Gzegozevskis and pn.` <br/>
- ![alt text][logo] Clicking this link (https://classroom.github.com/a/VMxdf01Y) and accepting this assigment (see Figure 1): ![Invitation window](https://image.ibb.co/ewCorH/invitation.png)
+ ![alt text][logo] Clicking this link (https://classroom.github.com/a/tdxBOTJ0) and accepting this assigment (see Figure 1): ![Invitation window](https://image.ibb.co/ewCorH/invitation.png)
 `1 fig. Invitation link window (You must have Github account or create new). `
  
  You will automatically create a private repository (catalog) that you and the teacher will see your activity (see Figure 2):
@@ -56,7 +56,7 @@
 ---
 ### PROJECT
 ---
-![alt text][logo] A more detailed description of the project you find here: (https://github.com/prattions/Pirmoy-programming-practice/issues/5). <br/>
+![alt text][logo] A more detailed description of the project you find here: (https://github.com/pratybos/First-programming-practice/issues/5). <br/>
  ![alt text][logo] Create your own team and come up with a name for it. <br/>
  ![alt text][logo] Choose the team manager \
  ![alt text][logo] Team Leader using this link: (https://classroom.github.com/g/5xKI20tj) must create a team and invite team members to it.
