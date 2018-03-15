@@ -40,7 +40,7 @@
 ---
 ![alt text][logo] Practical tasks requirments you find here: (https://github.com/pratybos/First-programming-practice/issues). <br/>
  ![Issues hit](https://image.ibb.co/hKgOwS/issues.png) <br/>
- `Fig. 0 Issues Here you will find practical tasks requirements.`
+ `Fig. 0 Issues Here you will find practical tasks requirements.`<br/>
  
  ![alt text][logo] `Create a new version of the Github account control: eg: Marius.Gzegozevskis, M.Gzegozevskis and pn.` <br/>
  ![alt text][logo] Clicking this link (https://classroom.github.com/a/tdxBOTJ0) and accepting this assigment (see Figure 1): 
