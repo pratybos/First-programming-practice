@@ -40,15 +40,18 @@
 ---
 ![alt text][logo] Practical tasks requirments you find here: (https://github.com/pratybos/First-programming-practice/issues). <br/>
  ![Issues hit](https://image.ibb.co/hKgOwS/issues.png) <br/>
- `Fig. 0 Issues Here you will find practical tasks requirements.'
- ![alt text][logo] Create a new version of the Github account control: eg: Marius.Gzegozevskis, M.Gzegozevskis and pn.` <br/>
- ![alt text][logo] Clicking this link (https://classroom.github.com/a/tdxBOTJ0) and accepting this assigment (see Figure 1): ![Invitation window](https://image.ibb.co/ewCorH/invitation.png)
-`1 fig. Invitation link window (You must have Github account or create new). `
+ `Fig. 0 Issues Here you will find practical tasks requirements.`
+ 
+ ![alt text][logo] `Create a new version of the Github account control: eg: Marius.Gzegozevskis, M.Gzegozevskis and pn.` <br/>
+ ![alt text][logo] Clicking this link (https://classroom.github.com/a/tdxBOTJ0) and accepting this assigment (see Figure 1): 
+ ![Invitation window](https://image.ibb.co/ewCorH/invitation.png)
+
+`1 fig. Invitation link window (You must have Github account or create new).`
  
  You will automatically create a private repository (catalog) that you and the teacher will see your activity (see Figure 2):
  
  ![Created repo](https://image.ibb.co/g9DLqc/sukurti_repo.png)
-`2 fig. Created a new repository group_name + user_name. `
+`2 fig. Created a new repository group_name + user_name.`
  <br/>
  
  ![alt text][logo] All the tasks in Issues tab: # 1, # 2, # 3, # 4 must be placed in this created repository using the VCS Git !!Not enough to upload only from web browser.
