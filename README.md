@@ -91,7 +91,7 @@
 ### FEEDBACK
 ---
 
-![alt text][logo] Provide your opinion on the disadvantages, advantages, benefits of this course use this link: (https://docs.google.com/forms/d/e/1FAIpQLSdPbeONXYZYX-kC_iFE4kcY6R8QEofm8_INNQOz9CER7xabpA/viewform?embedded=true) .
+![alt text][logo] Provide your opinion on the disadvantages, advantages, benefits of this course use this link: (https://goo.gl/forms/W6i4wi3ItL5hYbJY2) .
 
 ---
 
