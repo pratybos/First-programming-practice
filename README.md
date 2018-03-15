@@ -33,7 +33,7 @@
 ### QUIZ
 ---
 ![alt text][logo] Complete the quiz you need any device which have a web browser. \
-![alt text][logo] Test link (https://forms.office.com/Pages/ResponsePage.aspx?id=UUqGQwxHFEOpOVe_McsROIvoJvCKyHVPvWo_cRWd6JtUNTVPRkpXUjhLTUxWRk1YS1E0TkwyNktaRi4u). You will only be able to complete the quiz by signing with mail.office365.com  account and use credentials for e.g., s000012@ad.viko.lt.
+![alt text][logo] Test link (https://forms.office.com/Pages/ResponsePage.aspx?id=UUqGQwxHFEOpOVe_McsROIvoJvCKyHVPvWo_cRWd6JtURjNaRkZHQlpYS1c3OVRMVThFTzAzTEdTQy4u). You will only be able to complete the quiz by signing with mail.office365.com  account and use credentials for e.g., s000012@ad.viko.lt.
 
 ---
 ### PRACTICAL TASKS
